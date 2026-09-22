@@ -34,7 +34,7 @@ print(string.format("[HSTESH] Device: %s | Keyboard: %s",
     tostring(hasKeyboard)))
 
 -- 🔗 GitHub Raw Direct Link
-local SCRIPT_URL = "https://raw.githubusercontent.com/alyassaabenzaroual-hash/Zerowifly/main/HSTESH.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/alyassaabenzaroual-hash/Steal-An-Egg/main/HSTESH.lua"
 
 -- Persistent States via Environment
 local genv = (getgenv and getgenv()) or _G
